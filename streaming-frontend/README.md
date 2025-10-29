@@ -10,6 +10,8 @@ Ele exibe logs em tempo real consumindo dois endpoints diferentes do backend:
 
 A interface exibe dois blocos de logs lado a lado, atualizando em tempo real conforme os dados chegam do servidor.
 
+<img width="1344" height="590" alt="image" src="https://github.com/user-attachments/assets/70ec5b95-f1ce-4df6-a064-d34c8fe7af12" />
+
 ---
 
 ## 🧩 Estrutura
