@@ -58,8 +58,8 @@ data: Log 2 - 2025-10-29T22:00:01Z
 #### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/go-log-streamer.git
-cd go-log-streamer
+git clone https://github.com/santosjennifer/go-react-streaming.git
+cd streaming-backend
 ```
 
 #### 2. Executar o servidor
